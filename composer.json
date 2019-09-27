@@ -1,0 +1,19 @@
+{
+    "autoload": {
+      "classmap": ["HTTP.php"]    
+    },
+    "description": "More info available on: http://pear.php.net/package/HTTP",
+    "include-path": [
+        "./"
+    ],
+    "license": "BSD, revised",
+    "name": "pear/http",
+    "support": {
+        "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=HTTP",
+        "source": "https://github.com/pear/HTTP"
+    },
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
